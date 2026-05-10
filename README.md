@@ -200,7 +200,7 @@ This project helped in understanding:
 Example:
 
 ```
-screenshots/code-output.png
+advanced-packet-sniffer/screenshots/code-output.png
 ```
 
 ---
