@@ -193,20 +193,6 @@ This project helped in understanding:
 
 ---
 
-# 📸 Screenshots
-
-
-
-Example:
-
-```
-advanced-packet-sniffer/screenshots/code-output.png
-```
-
----
-screenshots/logs.png
----
-
 ---
 
 # 🤝 Contributing
