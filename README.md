@@ -195,13 +195,17 @@ This project helped in understanding:
 
 # 📸 Screenshots
 
-> Add your terminal screenshots here for a professional GitHub showcase.
+
 
 Example:
 
-```text
-screenshots/sniffer-output.png
 ```
+screenshots/code-output.png
+```
+
+---
+screenshots/logs.png
+---
 
 ---
 
